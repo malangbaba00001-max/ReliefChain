@@ -123,3 +123,18 @@ cd apps/ai-service && uvicorn app.main:app --port 8000
 **M16 — CONDITIONALLY CLOSED — INFRASTRUCTURE LIMITED**
 
 Live PostgreSQL-backed E2E execution was not performed because PostgreSQL/Docker infrastructure was unavailable in the validation environment.
+
+## Project Overview
+
+ReliefChain is a blockchain-based project designed to support transparency and accountability in disaster relief fund and resource management.
+
+### Objectives
+- Improve traceability of relief contributions.
+- Support transparent tracking of relief-related transactions.
+- Make information about resource management easier to understand.
+
+### Project Components
+The repository contains smart contracts, configuration files, and supporting application components. Explore the project folders to understand how each component contributes to the system.
+
+### Development Status
+ReliefChain is a development project. Refer to the existing repository documentation and configuration files for implementation details.
